@@ -10,8 +10,9 @@
 		"lint": "eslint src/**/*.ts",
 		"format": "eslint src/**/*.ts --fix"
 	},
-	"dependencies": {},
+	"dependencies": {
 		"flow-plugin": "^1.0.0"
+	},
 	"devDependencies": {
 		"@types/node": "^20.3.1",
 		"eslint": "^8.43.0",
