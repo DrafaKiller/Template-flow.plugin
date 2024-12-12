@@ -1,12 +1,13 @@
 {
-  "ID": "plugin_id",
-  "ActionKeyword": "-",
-  "Name": "plugin_name",
-  "Description": "plugin_description",
-  "Author": "DrafaKiller",
+  "ID": "<plugin_id>",
+  "Name": "<plugin_name>",
+  "Description": "<plugin_description>",
+  "Author": "<author_name>",
   "Version": "0.0.1",
+
   "Language": "JavaScript",
-  "Website": "https://github.com/DrafaKiller/plugin_name-flow.plugin",
+  "Website": "https://github.com/<author_name>/<plugin_slug>-flow.plugin",
   "ExecuteFileName": "build/index.js",
-  "IcoPath": "app.png"
+  "IcoPath": "assets/images/app.png",
+  "ActionKeyword": "-"
 }
